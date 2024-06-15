@@ -1,5 +1,3 @@
-
-// eslint-disable-next-line no-unused-vars
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 
@@ -45,7 +43,7 @@ const Navbar = () => {
           }}
         >
           <img src={logo} alt='logo' className='w-9 h-9 object-contain' />
-          <p className='text-white text-[18px] font-bold cursor-pointer flex '>
+          <p className='text-white text-[16px] font-bold cursor-pointer flex '>
             Rimsha &nbsp;
             <span className='sm:block hidden'> Arshad</span>
           </p>
