@@ -32,7 +32,7 @@ import {
     },
     {
       id: "work",
-      title: "Work",
+      title: "Works",
     },
     {
       id: "contact",
@@ -194,6 +194,14 @@ import {
       company: "456 Enterprises",
       image: "https://randomuser.me/api/portraits/women/6.jpg",
     },
+    {
+      testimonial:
+        "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      name: "Chris Brown",
+      designation: "COO",
+      company: "DEF Corp",
+      image: "https://randomuser.me/api/portraits/men/5.jpg",
+    },
   ];
   
   const projects = [
@@ -216,7 +224,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/RimshaWebDev",
     },
     {
       name: "Job IT",
@@ -237,7 +245,7 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/RimshaWebDev",
     },
     {
       name: "Trip Guide",
@@ -258,7 +266,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/RimshaWebDev",
     },
   ];
   
