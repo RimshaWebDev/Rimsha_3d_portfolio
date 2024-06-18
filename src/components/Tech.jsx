@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from "framer-motion";
-import { textVariant } from "../utils/motion";
+import { fadeIn, textVariant } from "../utils/motion";
 import { styles } from "../styles";
 import {css, docker, figma, git, html, javascript, mongodb, nodejs, reactjs, redux,tailwind} from "../assets";
 

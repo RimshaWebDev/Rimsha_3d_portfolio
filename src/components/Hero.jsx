@@ -1,6 +1,8 @@
 import { motion } from "framer-motion";
 import { styles } from "../styles";
-import {HeroPic} from "../assets"
+import {HeroPic} from "../assets";
+import { Footer } from 'flowbite-react';
+import { BsFacebook, BsInstagram, BsTwitter, BsGithub, BsDribbble } from 'react-icons/bs';
 
 const Hero = () => {
   return (
@@ -42,6 +44,14 @@ const Hero = () => {
           </div>
         </a>
       </div>
+      <div className="flex gap-6 sm:mt-2 mt-4 sm:justify-center">
+      <Footer.Icon href='https://www.facebook.com/rimsha_arshad773' icon={BsFacebook}/>
+      <Footer.Icon href='https://www.instagram.com/rimsha_arshad773' icon={BsInstagram}/>
+      <Footer.Icon href='#' icon={BsTwitter}/>
+      <Footer.Icon href='https://github.com/RimshaWebDev' icon={BsGithub}/>
+      <Footer.Icon href='https://dribbble.com/Rim_sha' icon={BsDribbble}/>
+
+  </div>
     </section>
   );
 };

@@ -1,5 +1,6 @@
 import logo from "./logo.svg";
-import HeroPic from "./HeroPic.png"
+import HeroPic from "./HeroPic.png";
+import ContactPic from "./ContactPic.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -34,6 +35,7 @@ import tripguide from "./tripguide.png";
 export {
   logo,
   HeroPic,
+  ContactPic,
   backend,
   creator,
   mobile,
