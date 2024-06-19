@@ -1,4 +1,4 @@
-## <a name="Please Give it a star if you like it.">🤖 Please Give it a star if you like it.</a>
+## <a name="Please Give it a star if you like it.">🤖 Please Give it a star if you like it 🌟.</a>
 ## <a name="introduction">🤖 Introduction</a>
 
 By developing this project, you will gain hands-on experience in crafting immersive web experiences, mastering 3D libraries, and implementing engaging animations. The combination of creativity and technical skills showcased in this project serves as an excellent learning opportunity for developers seeking to enhance their portfolio and captivate users with cutting-edge web design.
