@@ -9,25 +9,28 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
-import css from "./tech/css.png";
+import css from "./tech/css.webp";
+//import c from "./tech/c.webp";
+//import backend from "./tech/backend.webp";
+import figma from "./tech/figma.webp";
+import git from "./tech/git.webp";
+import html from "./tech/html.webp";
+import javascript from "./tech/javascript.webp";
+import mongodb from "./tech/mongodb.webp";
+import nodejs from "./tech/nodejs.webp";
+import reactjs from "./tech/reactjs.webp";
+import redux from "./tech/redux.webp";
+import tailwind from "./tech/tailwind.webp";
+import nextjs from "./tech/nextjs.png";
+import threejs from "./tech/threejs.png";
+//import dribbble from "./tech/dribbble..webp";
 import docker from "./tech/docker.png";
-import figma from "./tech/figma.png";
-import git from "./tech/git.png";
-import html from "./tech/html.png";
-import javascript from "./tech/javascript.png";
-import mongodb from "./tech/mongodb.png";
-import nodejs from "./tech/nodejs.png";
-import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
-import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import typescript from "./tech/typescript.webp";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
-
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -44,7 +47,7 @@ export {
   menu,
   close,
   css,
-  docker,
+  //c,
   figma,
   git,
   html,
@@ -54,8 +57,11 @@ export {
   reactjs,
   redux,
   tailwind,
-  typescript,
+  nextjs,
   threejs,
+  //dribbble,
+  docker,
+  typescript,
   meta,
   shopify,
   starbucks,
